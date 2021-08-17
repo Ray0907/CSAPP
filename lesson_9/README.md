@@ -30,3 +30,10 @@
   - Unions
     - Overlay declarations
     - Way to circumvent type system
+
+# Thwarting Buffer Overflow Attacks
+
+- Stack Randomization
+  - Address-Space Layout Randomization(ASLR)
+- Stack Corruption Detection
+- Limiting Executable Code Regions
